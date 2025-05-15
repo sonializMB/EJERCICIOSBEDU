@@ -31,7 +31,7 @@ Sonia Muñoz
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/retos-java.git
+   git clone https://github.com/sonializMB/EJERCICIOSBEDU.git
    cd retos-java
 2. Entra al reto que quieras probar
 3. Compila y Ejecuta
